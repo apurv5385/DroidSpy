@@ -74,7 +74,7 @@ It's recommended to run DroidSpy behind a reverse proxy such as [NGINX](https://
 DroidSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
+<p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">apurv</a></p>
 
 ## Credits
 
